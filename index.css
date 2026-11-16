@@ -31,11 +31,7 @@ P{
     color: #00E5FF;
    margin-left: 4%;
 }
-.container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
 .calendar{
     width: 190px;
     height: 40px;
